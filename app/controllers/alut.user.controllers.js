@@ -164,8 +164,7 @@ exports.addFriend = (req, res) => {
         })
   
 }
-
-//add friend to list
+//add friend to the list
 // Find a single user with a userId
 exports.removedFriend = (req, res) => {
 
